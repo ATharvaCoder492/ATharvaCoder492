@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ATharvaCoder492
-- 👀 I’m interested in Android Development,Python,AI,ML,Java,JS
-- 🌱 I’m currently learning  Android Development
-- 📫 How to reach me - Email me at atharvacoder492@gmail.com
--
+-  Hi, I’m @ATharvaCoder492
+-  I’m interested in Android Development,Python,AI,ML,Java,JS
+-  I’m currently learning  Android Development
+-  How to reach me - Email me at atharvacoder492@gmail.com
+-  My Profile - https://solo.to/atharvacoder492
