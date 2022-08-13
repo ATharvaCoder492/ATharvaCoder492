@@ -2,7 +2,7 @@
 
 ## I'm a Developer with 3 years of experience!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything XD
 - 🥅 2022 Goals: Master every single JS library or frameworks
 - ⚡ Fun fact: I love building new things
 
