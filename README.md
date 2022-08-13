@@ -1,4 +1,4 @@
-# Hi there, I'm Atharva - aka [$0$UKE] 👋
+# Hi there, I'm Atharv - aka [$0$UKE] 👋
 
 ## I'm a Developer with 3 years of experience!!
 
