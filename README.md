@@ -2,8 +2,8 @@
 
 ## I'm a Developer with 3 years of experience!!
 
-- 🌱 I’m currently learning everything XD
-- 🥅 2022 Goals: Master every single JS library or frameworks
+- 🌱 I’m currently learning JS and Python
+- 🥅 2022 Goals: Master every single JS or Python frameworks and MERN
 - ⚡ Fun fact: I love building new things
 
 ### My entire profile
