@@ -5,10 +5,6 @@
 - 🌱 I’m currently learning JS and Python
 - 🥅 2022 Goals: Master every single JS or Python frameworks and MERN
 
-### My entire profile
-
-[Profile](https://solo.to/atharvacoder492)
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
