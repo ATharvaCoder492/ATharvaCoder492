@@ -3,7 +3,7 @@
 ## I'm a Developer with 3 years of experience!!
 
 - 🌱 I’m currently learning JS and Python
-- 🥅 2022 Goals: Master every single JS or Python frameworks and MERN
+- 🥅 2022 Goals: Master every single JS & Python - frameworks or libraries as well as MERN
 
 ### Languages and Tools:
 
