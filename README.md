@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Framework,Library of JavaScript**
 
-- 💬 Ask me about **React,React-Native**
+- 💬 Ask me about **React,**React-Native,Python**
 
 - 📫 How to reach me **atharvacoder492@gmail.com**
 
